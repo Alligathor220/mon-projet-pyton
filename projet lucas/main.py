@@ -7,7 +7,7 @@ def clear_terminal():
 
 def bouncing_ball(width=40, delay=0.05):
     position = 0
-    direction = -220 # 1 pour aller à droite, -1 pour aller à gauche
+    direction = -2 # 1 pour aller à droite, -1 pour aller à gauche
 
     try:
         while True:
